@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library>
+	<Technical>
+		<book isbn-13="9780999063507" isbn-10="0999063502"> 
+			<title>Q is for Quantum</title> 
+			<author>Terry Rudolph</author> 
+		</book>
+
+		<book isbn-13="9781541675704" isbn-10="1541675703"> 
+			<title>The Art of Statistics: How to Learn from Data</title> 
+			<author>David Spiegelhalter</author> 
+		</book>
+	</Technical> 		
+	<Cooking>
+		<book isbn-13="978-0131774292" isbn-10="0764598783"> 
+			<title>Gordon Ramsay Makes It Easy</title> 
+			<author>Gordon Ramsay</author> 
+		</book>
+		<book isbn-13="9781443429269" isbn-10="1443429260"> 
+			<title>15 Minute Meals</title> 
+			<author>Jamie Oliver</author> 
+		</book>
+	</Cooking> 
+</library> 
